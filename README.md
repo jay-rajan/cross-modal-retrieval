@@ -17,4 +17,4 @@ The model is trained on large datasets of image-text pairs to learn the nuances 
 
 
 #### ViLT 
-ViLT (Vision-and-Language Transformer) simplifies the integration of visual and textual data by eliminating the need for convolutions and region supervision. Instead, it processes image patches and text tokens directly with a unified transformer model
+ViLT ([Vision-and-Language Transformer](https://huggingface.co/docs/transformers/model_doc/vilt)) simplifies the integration of visual and textual data by eliminating the need for convolutions and region supervision. Instead, it processes image patches and text tokens directly with a unified transformer model
